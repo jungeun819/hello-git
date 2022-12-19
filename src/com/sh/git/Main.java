@@ -9,6 +9,10 @@ package com.sh.git;
  * 		- soft : 지정 커밋 이후 변경사항을 staging area 보관. 즉시 커밋 가능
  */
 public class Main {
+	
+	public void master() {
+		
+	}
 
 	public static void main(String[] args) {
 		System.out.println("Hello world");
